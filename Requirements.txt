@@ -1,0 +1,18 @@
+Required packages to run the HIME Framework. The installation
+instructions for Mac OS can be found at:
+python_install_dependencies_for_mac.sh
+
+Author: Dogacan S. Ozturk
+
+Python >= 3.6
+
+Deafult libraries:
+Numpy >= 1.17.2
+Matplotlib >= 3.1.1
+Scipy >= 1.3.1
+Tables >= 3.6.1
+
+Custom libraries:
+Spacepy >= 0.2.0
+Apexpy >= 1.0.3
+

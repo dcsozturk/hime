@@ -129,4 +129,4 @@ Ozturk, D. S., Verkhoglyadova, O., Meng, X., Semeter, J., Varney, R., Reimer, A.
 ## Issues and Bug Reporting
 
 
-For issues, custom requests, and bug reporting contact dogacan.s.ozturk@jpl.nasa.gov. Please provide as much as information as possible. Bug reports can include screenshots or copies of error messages.
+For issues, custom requests, and bug reporting contact dcsoztrk@umich.edu. Please provide as much as information as possible. Bug reports can include screenshots or copies of error messages.
